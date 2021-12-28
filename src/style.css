@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.rend {
+  background-color: red;
+  color: white;
+}
+.btn1 {
+  background-color: aqua;
+  color: black;
+  font-size: x-large;
+}
